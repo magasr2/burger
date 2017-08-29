@@ -1,0 +1,30 @@
+body{
+	background-color:tan;
+}
+
+img{
+	border-radius:25%;
+	margin: 0 auto;
+	position:relative;
+}
+
+h3{
+	font-family:"Times News Roman",Arial,Helvetica;
+	font-size:30px;
+	color:red;
+	text-align:center;
+}
+
+form{
+	margin-top:10%;
+}
+
+label{
+	font-family:'Times News Roman', Arial, Helvetica;
+	font-size:25px;
+}
+
+.center{
+	border-left:1px solid black;
+	border-right:1px solid black;
+}
